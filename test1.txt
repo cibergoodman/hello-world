@@ -3,3 +3,5 @@ this has been added in a new branch
 more text
 
 Adding this in a new branch
+
+Now I add some more text
